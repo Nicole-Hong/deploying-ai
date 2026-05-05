@@ -8,6 +8,10 @@ wheels/
 .deepeval_telemetry.txt
 .DS_Store
 **/.deepeval/*
+05_src/assignment_chat/chroma_db/
+05_src/assignment_chat/__pycache__/
+*.pyc
+.env
 
 # Virtual environments
 .venv
@@ -27,3 +31,5 @@ deploying-ai-env
 *.jsonl
 *.htm
 *.txt
+
+
